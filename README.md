@@ -1,4 +1,4 @@
-<h1> Amazon Clone</h1>
+<h1> Commerce Website</h1>
 
 This is an example of a commerce website.
 
